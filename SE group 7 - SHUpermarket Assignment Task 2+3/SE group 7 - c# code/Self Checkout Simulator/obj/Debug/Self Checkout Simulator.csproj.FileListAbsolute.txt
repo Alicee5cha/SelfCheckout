@@ -1,0 +1,40 @@
+C:\Users\cynth\OneDrive\Documents\Self-Checkout\SHUpermarket\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csprojAssemblyReference.cache
+C:\Users\cynth\OneDrive\Documents\Self-Checkout\SHUpermarket\SHUpermarket\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.UserInterface.resources
+C:\Users\cynth\OneDrive\Documents\Self-Checkout\SHUpermarket\SHUpermarket\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.Properties.Resources.resources
+C:\Users\cynth\OneDrive\Documents\Self-Checkout\SHUpermarket\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.GenerateResource.cache
+C:\Users\cynth\OneDrive\Documents\Self-Checkout\SHUpermarket\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.CoreCompileInputs.cache
+C:\Users\cynth\OneDrive\Documents\Self-Checkout\SHUpermarket\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe.config
+C:\Users\cynth\OneDrive\Documents\Self-Checkout\SHUpermarket\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe
+C:\Users\cynth\OneDrive\Documents\Self-Checkout\SHUpermarket\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.pdb
+C:\Users\cynth\OneDrive\Documents\Self-Checkout\SHUpermarket\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.exe
+C:\Users\cynth\OneDrive\Documents\Self-Checkout\SHUpermarket\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.pdb
+C:\Users\Shoai\OneDrive\Documents\GitHub\Self-Checkout\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe.config
+C:\Users\Shoai\OneDrive\Documents\GitHub\Self-Checkout\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe
+C:\Users\Shoai\OneDrive\Documents\GitHub\Self-Checkout\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.pdb
+C:\Users\Shoai\OneDrive\Documents\GitHub\Self-Checkout\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csprojAssemblyReference.cache
+C:\Users\Shoai\OneDrive\Documents\GitHub\Self-Checkout\SHUpermarket\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.UserInterface.resources
+C:\Users\Shoai\OneDrive\Documents\GitHub\Self-Checkout\SHUpermarket\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.Properties.Resources.resources
+C:\Users\Shoai\OneDrive\Documents\GitHub\Self-Checkout\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.GenerateResource.cache
+C:\Users\Shoai\OneDrive\Documents\GitHub\Self-Checkout\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Shoai\OneDrive\Documents\GitHub\Self-Checkout\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.exe
+C:\Users\Shoai\OneDrive\Documents\GitHub\Self-Checkout\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.pdb
+C:\Users\Shoai\OneDrive\Desktop\Year 1-LAPTOP-7PERLCOV\Systems Modelling\Assessment 2 - SHUpermarket\SHUpermarket\Self-Checkout\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe.config
+C:\Users\Shoai\OneDrive\Desktop\Year 1-LAPTOP-7PERLCOV\Systems Modelling\Assessment 2 - SHUpermarket\SHUpermarket\Self-Checkout\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe
+C:\Users\Shoai\OneDrive\Desktop\Year 1-LAPTOP-7PERLCOV\Systems Modelling\Assessment 2 - SHUpermarket\SHUpermarket\Self-Checkout\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.pdb
+C:\Users\Shoai\OneDrive\Desktop\Year 1-LAPTOP-7PERLCOV\Systems Modelling\Assessment 2 - SHUpermarket\SHUpermarket\Self-Checkout\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csprojAssemblyReference.cache
+C:\Users\Shoai\OneDrive\Desktop\Year 1-LAPTOP-7PERLCOV\Systems Modelling\Assessment 2 - SHUpermarket\SHUpermarket\Self-Checkout\SHUpermarket\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.UserInterface.resources
+C:\Users\Shoai\OneDrive\Desktop\Year 1-LAPTOP-7PERLCOV\Systems Modelling\Assessment 2 - SHUpermarket\SHUpermarket\Self-Checkout\SHUpermarket\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.Properties.Resources.resources
+C:\Users\Shoai\OneDrive\Desktop\Year 1-LAPTOP-7PERLCOV\Systems Modelling\Assessment 2 - SHUpermarket\SHUpermarket\Self-Checkout\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.GenerateResource.cache
+C:\Users\Shoai\OneDrive\Desktop\Year 1-LAPTOP-7PERLCOV\Systems Modelling\Assessment 2 - SHUpermarket\SHUpermarket\Self-Checkout\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Shoai\OneDrive\Desktop\Year 1-LAPTOP-7PERLCOV\Systems Modelling\Assessment 2 - SHUpermarket\SHUpermarket\Self-Checkout\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.exe
+C:\Users\Shoai\OneDrive\Desktop\Year 1-LAPTOP-7PERLCOV\Systems Modelling\Assessment 2 - SHUpermarket\SHUpermarket\Self-Checkout\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.pdb
+C:\Users\Alz\Documents\Uni\Systems Modelling\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - c# code\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe.config
+C:\Users\Alz\Documents\Uni\Systems Modelling\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - c# code\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe
+C:\Users\Alz\Documents\Uni\Systems Modelling\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - c# code\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.pdb
+C:\Users\Alz\Documents\Uni\Systems Modelling\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - c# code\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csprojAssemblyReference.cache
+C:\Users\Alz\Documents\Uni\Systems Modelling\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - c# code\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.UserInterface.resources
+C:\Users\Alz\Documents\Uni\Systems Modelling\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - c# code\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.Properties.Resources.resources
+C:\Users\Alz\Documents\Uni\Systems Modelling\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - c# code\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.GenerateResource.cache
+C:\Users\Alz\Documents\Uni\Systems Modelling\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - c# code\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Alz\Documents\Uni\Systems Modelling\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - c# code\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.exe
+C:\Users\Alz\Documents\Uni\Systems Modelling\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - SHUpermarket Assignment Task 2+3\SE group 7 - c# code\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.pdb
